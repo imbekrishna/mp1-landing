@@ -1,0 +1,11 @@
+@import "./main.css";
+
+.thank-you {
+  font-size: 42px;
+  font-weight: bold;
+  color: var(--bg-secondary);
+}
+
+.privacy-prompt {
+  text-align: left;
+}
